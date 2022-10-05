@@ -1,1 +1,1 @@
-# Alle Informationen könne im [Wiki](https://github.com/ComputerNetworkManager/Wiki/wiki) nachgeschlagen werden.
+# Alle Informationen könne im [Wiki](https://github.com/ComputerNetworkManager/WikiDE/wiki) nachgeschlagen werden.
